@@ -14,7 +14,7 @@ Sample Input:<br>
 `15`
 <br>
 Sample Output:<br>
-`
+```
 1
 2
 Fizz
@@ -30,7 +30,7 @@ Fizz
 13
 14
 FizzBuzz
-`
+```
 <br>
 <br>
 
