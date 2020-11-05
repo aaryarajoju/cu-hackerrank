@@ -10,7 +10,6 @@ import (
 )
 
 
-
 func fizzBuzz(n int32) {
     for i:=1; int32(i)<=n; i++{
         if i%15==0{
