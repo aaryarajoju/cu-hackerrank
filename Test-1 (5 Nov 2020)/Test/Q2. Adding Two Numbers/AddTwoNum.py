@@ -9,7 +9,7 @@ import sys
 import math
 
 def addNumbers(a, b):
-    return(math.floor(a+b))
+    return(int(math.floor(a+b)))
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
