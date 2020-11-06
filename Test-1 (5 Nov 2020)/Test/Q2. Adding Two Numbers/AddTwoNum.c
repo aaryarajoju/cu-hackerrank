@@ -16,18 +16,8 @@ char* rtrim(char*);
 float parse_float(char*);
 
 
-
-/*
- * Complete the 'addNumbers' function below.
- *
- * The function is expected to return an INTEGER.
- * The function accepts following parameters:
- *  1. FLOAT a
- *  2. FLOAT b
- */
-
 int addNumbers(float a, float b) {
-
+    return(floor(a+b))
 }
 
 int main()
