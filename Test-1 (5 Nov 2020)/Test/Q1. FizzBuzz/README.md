@@ -16,6 +16,7 @@ Sample Input:<br>
 ```
 <br>
 <br>
+
 Sample Output:<br>
 ```
 1
@@ -34,6 +35,7 @@ Fizz
 14
 FizzBuzz
 ```
+
 <br>
 <br>
 
