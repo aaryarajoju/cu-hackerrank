@@ -8,16 +8,18 @@ import sys
 
 
 
-#
-# Complete the 'isPrime' function below.
-#
-# The function is expected to return an INTEGER.
-# The function accepts LONG_INTEGER n as parameter.
-#
-
 def isPrime(n):
-    # Write your code here
+    if n==2:
+        return 1
+    elif n%2==0:
+        return 2
+    else:
+        for i in range (3,n):
+            if int(n)%i==0:
+                return int32(i)
+    return 1
 
+                
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
