@@ -25,9 +25,5 @@ Sample Output:
 <br>
 <a href = "https://github.com/aaryarajoju/cu-hackerrank/blob/main/Test-1%20(5%20Nov%202020)/Test/Q2.%20Adding%20Two%20Numbers/AddTwoNum.go">Solution in Golang</a><br>
 <a href = "https://github.com/aaryarajoju/cu-hackerrank/blob/main/Test-1%20(5%20Nov%202020)/Test/Q2.%20Adding%20Two%20Numbers/AddTwoNum.py">Solution in Python</a><br>
-<a href = "https://github.com/aaryarajoju/cu-hackerrank/blob/main/Test-1%20(5%20Nov%202020)/Test/Q2.%20Adding%20Two%20Numbers/AddTwoNum.kt">Solution in Kotlin</a><br>
 <a href = "https://github.com/aaryarajoju/cu-hackerrank/blob/main/Test-1%20(5%20Nov%202020)/Test/Q2.%20Adding%20Two%20Numbers/AddTwoNum.c">Solution in C</a><br>
-<a href = "https://github.com/aaryarajoju/cu-hackerrank/blob/main/Test-1%20(5%20Nov%202020)/Test/Q2.%20Adding%20Two%20Numbers/AddTwoNum.cpp">Solution in C++</a><br>
-<a href = "https://github.com/aaryarajoju/cu-hackerrank/blob/main/Test-1%20(5%20Nov%202020)/Test/Q2.%20Adding%20Two%20Numbers/AddTwoNum.cs">Solution in C#</a><br>
-<a href = "https://github.com/aaryarajoju/cu-hackerrank/blob/main/Test-1%20(5%20Nov%202020)/Test/Q2.%20Adding%20Two%20Numbers/AddTwoNum.java">Solution in Java</a><br>
 If anyone wants to provide solutions in any other languages, go ahead!
