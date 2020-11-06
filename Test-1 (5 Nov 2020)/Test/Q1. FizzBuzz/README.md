@@ -11,7 +11,9 @@ Given a number <i>n</i>, for each integer <i>i</i> in the range from <i>1</i> to
 <br>
 
 Sample Input:<br>
-`15`
+```
+15
+```
 <br>
 <br>
 Sample Output:<br>
