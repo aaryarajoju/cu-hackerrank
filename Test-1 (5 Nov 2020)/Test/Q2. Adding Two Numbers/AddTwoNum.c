@@ -17,7 +17,7 @@ float parse_float(char*);
 
 
 int addNumbers(float a, float b) {
-    return(floor(a+b))
+    return((int) floor(a+b))
 }
 
 int main()
