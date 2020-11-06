@@ -17,16 +17,21 @@ long parse_long(char*);
 
 
 
-/*
- * Complete the 'isPrime' function below.
- *
- * The function is expected to return an INTEGER.
- * The function accepts LONG_INTEGER n as parameter.
- */
-
 int isPrime(long n) {
-
+    if (n==2){
+        return 1;
+    } else if (n%2==0){
+        return 2;
+    } else {
+        for (int i = 3; i < (int)n; i++) {
+            if ((int)n%i==0){
+                return (int)i;
+            }
+        } 
+    }
+    return 1;
 }
+
 
 int main()
 {
