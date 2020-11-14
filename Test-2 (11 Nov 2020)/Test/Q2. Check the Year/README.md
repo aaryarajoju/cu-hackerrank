@@ -5,27 +5,35 @@ Given a number <i>N</i>, the task is to check if <i>N</i> is a leap year.
 <br>
 <br>
 Sample Input:<br>
+
 ```
 2000
 ```
+
 <br>
 <br>
 Sample Output:<br>
+
 ```
 yes
 ```
+
 <br>
 <br>
 Sample Input:<br>
+
 ```
 1997
 ```
+
 <br>
 <br>
 Sample Output:<br>
+
 ```
 no
 ```
+
 <br>
 <br>
 <br>
