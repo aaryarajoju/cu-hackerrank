@@ -63,9 +63,9 @@ int main() {
         if (seat % 6 == 1 || seat % 6 == 0){
             printf("%d WS\n", opp);
         } else if (seat % 6 == 2 || seat % 6 == 5){
-            printf("%d MS", opp);
+            printf("%d MS\n", opp);
         } else {
-            printf("%d AS", opp);
+            printf("%d AS\n", opp);
         }
 
     }
