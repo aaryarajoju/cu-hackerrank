@@ -26,18 +26,22 @@ For each test case, print the facing seat-number and the seat type, separated by
 <br>
 <br>
 Sample Input:<br>
+
 ```
 2
 18
 40
 ```
+
 <br>
 <br>
 Sample Output:<br>
+
 ```
 19 WS
 45 AS
 ```
+
 <br>
 <p>Explanation: 2 denotes the number of test cases. 18 is the first seat number and 19 is in front of it and is a Window Seat (WS). Similarly, 40 is the second input and the seat opposite to it is 45 and is an Aisle Seat (AS).</p>
 <br>
