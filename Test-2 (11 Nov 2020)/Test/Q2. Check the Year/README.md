@@ -4,7 +4,7 @@ Given a number <i>N</i>, the task is to check if <i>N</i> is a leap year.
 
 <br>
 <br>
-Sample Input:<br>
+Sample Input 0:<br>
 
 ```
 2000
@@ -12,7 +12,7 @@ Sample Input:<br>
 
 <br>
 <br>
-Sample Output:<br>
+Sample Output 0:<br>
 
 ```
 yes
@@ -20,7 +20,7 @@ yes
 
 <br>
 <br>
-Sample Input:<br>
+Sample Input 1:<br>
 
 ```
 1997
@@ -28,7 +28,7 @@ Sample Input:<br>
 
 <br>
 <br>
-Sample Output:<br>
+Sample Output 1:<br>
 
 ```
 no
