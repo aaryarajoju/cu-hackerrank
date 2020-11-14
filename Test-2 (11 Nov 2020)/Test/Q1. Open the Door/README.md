@@ -11,7 +11,7 @@ A single integer <i>n</i>.<br>
 The <i>n</i>'th term of the fibonacci sequence. Print a <i>\n</i> at the end of the answer.<br>
 <br>
 <b>Constraints:</b><br>
-1 <=> <i>n</i> <= 15<br>
+1 <= <i>n</i> <= 15<br>
 <br>
 <br>
 Sample Input:<br>
