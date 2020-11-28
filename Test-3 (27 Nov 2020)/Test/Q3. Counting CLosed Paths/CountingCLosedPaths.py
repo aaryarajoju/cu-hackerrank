@@ -17,24 +17,31 @@ import sys
 
 def closedPaths(number):
     # Write your code here
+   
+   num2 = str(number)
 
-    num = number
-    numOfClosedPaths = 0
-    rem = 0
-    
+    return (num2.count("0") + num2.count("4") + num2.count("6") + num2.count("9") + (2 * num2.count("8")))
 
-    for num > 0
-        rem = num % 10
-        
-        if rem = 0 or rem = 4 or rem = 6 or rem = 9:
-            numOfClosedPaths = numOfClosedPaths + 1
-        elif rem = 8:
-            numOfClosedPaths = numOfClosedPaths + 2
+"""
+alternate method:
 
-    
-    return numOfClosedPaths
+num = number
+numOfClosedPaths = 0
+rem = 0
 
+for i in range (0, len(str(num))):
 
+    rem = num % 10
+
+    if rem == 0 or rem == 4 or rem == 6 or rem == 9:
+        numOfClosedPaths = numOfClosedPaths + 1
+    elif rem == 8:
+        numOfClosedPaths = numOfClosedPaths + 2
+
+    num = int(num / 10)
+
+    i = i + 1
+"""
 
 
 if __name__ == '__main__':
